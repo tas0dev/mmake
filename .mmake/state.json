@@ -1,0 +1,73 @@
+{
+  "targets": {
+    "compile": {
+      "fingerprint": "44c1f75db9dab4ca9f710c7ba7f655ce2fdeb205c1677c9edbb62a22b18b44bb",
+      "files": {
+        "src/fingerprint.rs": {
+          "size": 4328,
+          "mtime_ns": 1789523456584610645,
+          "hash": "957d8bd4ef171b7491ba6eefcae80a46c4b900d72010312cdfb7ba5a1c18692c"
+        },
+        "src/cli.rs": {
+          "size": 647,
+          "mtime_ns": 1789523456133644394,
+          "hash": "adf8c4115ba35300153031f00698ffa94585ed6fc9967051495822bc9eb33a1b"
+        },
+        "src/main.rs": {
+          "size": 1681,
+          "mtime_ns": 1789523456585610570,
+          "hash": "1d26f5d22ae5c374d900136ef32931dca10d96856e14e2e548b3883ba78f2736"
+        },
+        "src/progress.rs": {
+          "size": 3916,
+          "mtime_ns": 1789523456589610271,
+          "hash": "07f2dfda8dbe66930027f1b8f323ecdd722f005a323e125a6a35bbbcc995ad8f"
+        },
+        "src/cache.rs": {
+          "size": 1309,
+          "mtime_ns": 1789523455673678857,
+          "hash": "f6e0d580092c3c47a655eefb0415cbbb8849e26ca75f5beba8175d4a256a9cb1"
+        },
+        "src/parser.rs": {
+          "size": 9314,
+          "mtime_ns": 1789523456588610346,
+          "hash": "6ef20cc54f812628ca3264664d5e0101dc44b7c4cf1a8b488a97734253ce39d0"
+        },
+        "src/executor.rs": {
+          "size": 19667,
+          "mtime_ns": 1789523470515024078,
+          "hash": "28c70ca6eedcdcc46f47bd28fb455f6006d29f838224993e9fe8cb7209e6353e"
+        },
+        "src/model.rs": {
+          "size": 711,
+          "mtime_ns": 1789523456585610570,
+          "hash": "6e030c99a7ed83d0bc0513c8bb4bf770ae3b2e61c09168e2b07532ca6b71a129"
+        }
+      }
+    },
+    "package": {
+      "fingerprint": "87dde798f52afa5176a6b1f972275799d694bc1c9af53c6ff720cd77b14c87c3",
+      "files": {
+        "readme.md": {
+          "size": 33,
+          "mtime_ns": 1789519605738953477,
+          "hash": "bf83e662dbf9a504bdfc8bfb59634565243563a61372e0d126cb718f360d2124"
+        }
+      }
+    },
+    "all": {
+      "fingerprint": "031f1af68377450bff4da9a8ee32aa9cdc3537311f645d3d6e9a2f61137f8911",
+      "files": {}
+    },
+    "prepare": {
+      "fingerprint": "0670a90389532748a756f273cd3bb3cfc403dcf612d9ef28c6754123e8d7fbb3",
+      "files": {
+        "Cargo.toml": {
+          "size": 343,
+          "mtime_ns": 1789523102131688984,
+          "hash": "0381fd73acef5b7daf887a32f9b8fc74fd0a95231aaf190a930784d176524fa3"
+        }
+      }
+    }
+  }
+}

@@ -59,7 +59,7 @@ impl Progress {
 
         execute!(
             stdout,
-            SetForegroundColor(Color::Blue),
+            SetForegroundColor(Color::Green),
             Print("[done]"),
             ResetColor,
             Print(format!(" {}\n", target)),
